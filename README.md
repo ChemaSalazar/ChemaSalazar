@@ -25,12 +25,10 @@ I am Chema Salazar, a Full Stack Developer who is interested in accessibility an
 
 ### 📫 How to reach me:
 
-- LinkedIn:
-- GitHub:
-- Gmail:
-- Twitter:
-- Instagram:
-- YouTube:
+- LinkedIn: https://www.linkedin.com/in/chemasalazar/
+- GitHub: https://github.com/ChemaSalazar/
+- Gmail: ChemaSalazar@Outlook.com 
+- Twitter: https://twitter.com/CodeWithChema
 - Website: https://chemasalazar.com
 
 <!--
