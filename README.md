@@ -29,7 +29,6 @@ I am Chema Salazar, a Full Stack Developer who is interested in accessibility an
 - GitHub: https://github.com/ChemaSalazar/
 - Gmail: ChemaSalazar@Outlook.com 
 - Twitter: https://twitter.com/CodeWithChema
-- Website: https://chemasalazar.com
 
 <!--
 **ChemaSalazar/ChemaSalazar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
