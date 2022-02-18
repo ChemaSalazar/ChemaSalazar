@@ -2,9 +2,12 @@
 
 I am Chema Salazar, a Full Stack Developer who is interested in accessibility and UX/UI. I believe that everyone should have a great experience with whatever tool they are using. I'm also interested in Augmented Reality and Automation. I want to be able to help create value and teach others from my journey and experience as an engineer. 
 
+### ⚡ Website
+https://chemasalazar.com
+
 ### 🔭 Expertise
 
-- Languages: C, C++, Java, PHP, JavaScript.
+- Languages: C, C++, Java, PHP, JavaScript, Apex Salesforce.
 - Frameworks: React.js, Node.js
 - Content Management Systems: Drupal, Wordpress
 - Utilities: CSS, TailwindCSS
@@ -17,6 +20,7 @@ I am Chema Salazar, a Full Stack Developer who is interested in accessibility an
 - Angular
 - Laravel
 - AR Technologies
+- Lightning Salesforce
 
 ### 👯 I'm looking to collaborate on
 
