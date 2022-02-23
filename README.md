@@ -30,8 +30,8 @@ https://chemasalazar.com
 ### 📫 How to reach me:
 
 - LinkedIn: https://www.linkedin.com/in/chemasalazar/
-- GitHub: https://github.com/ChemaSalazar/
-- Gmail: ChemaSalazar@Outlook.com 
+- GitHub: https://github.com/ChemaSalazar/ 
+- Email: ChemaSalazar@Outlook.com 
 - Twitter: https://twitter.com/CodeWithChema
 
 <!--
