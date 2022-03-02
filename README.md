@@ -11,16 +11,16 @@ https://chemasalazar.com
 - Frameworks: React.js, Node.js
 - Content Management Systems: Drupal, Wordpress
 - Utilities: CSS, TailwindCSS
-- CI/CD Tools: GitLab, Jenkins
-- Databases: mySQL
+- CI/CD Tools: GitLab, Jenkins, Copado
+- Databases: mySQL, SOQL
 
 ### 🌱 I'm currently learning
 
-- Swift UI
-- Angular
-- Laravel
+- Vue.JS
 - AR Technologies
-- Lightning Salesforce
+- Drupal 9
+- Python
+
 
 ### 👯 I'm looking to collaborate on
 
