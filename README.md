@@ -18,8 +18,8 @@ https://chemasalazar.com
 
 - Vue.JS
 - AR Technologies
-- Drupal 9
-- Python
+- Storyblok 
+- ModernCampus
 
 
 ### 👯 I'm looking to collaborate on
