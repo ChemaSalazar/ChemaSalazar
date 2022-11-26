@@ -7,9 +7,9 @@ https://gitlab.com/users/SalazarChema
 
 ### 🔭 Expertise
 
-- Languages: C, C++, Java, PHP, JavaScript, Apex Salesforce.
+- Languages: C, C++, Java, PHP, JavaScript, Apex Salesforce, Python, Ruby.
 - Frameworks: React.js, Node.js
-- Content Management Systems: Drupal, Wordpress
+- Content Management Systems: Drupal, Wordpress, OMNI CMS
 - Utilities: CSS, TailwindCSS
 - CI/CD Tools: GitLab, Jenkins, Copado
 - Databases: mySQL, SOQL
