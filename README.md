@@ -2,8 +2,8 @@
 
 I am Chema Salazar, a Full Stack Developer who is interested in accessibility and UX/UI. I believe that everyone should have a great experience with whatever tool they are using. I'm also interested in Augmented Reality and Automation. I want to be able to help create value and teach others from my journey and experience as an engineer. 
 
-### ⚡ Website
-https://chemasalazar.com
+### ⚡ GitLab
+https://gitlab.com/users/SalazarChema
 
 ### 🔭 Expertise
 
