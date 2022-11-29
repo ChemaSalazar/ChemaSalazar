@@ -31,8 +31,8 @@ https://gitlab.com/users/SalazarChema
 
 - LinkedIn: https://www.linkedin.com/in/chemasalazar/
 - GitHub: https://github.com/ChemaSalazar/ 
-- Email: ChemaSalazar@Outlook.com 
-- Twitter: https://twitter.com/CodeWithChema
+<!-- - Email: ChemaSalazar@Outlook.com 
+- Twitter: https://twitter.com/CodeWithChema -->
 
 <!--
 **ChemaSalazar/ChemaSalazar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
