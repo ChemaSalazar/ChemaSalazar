@@ -8,29 +8,17 @@ https://gitlab.com/users/SalazarChema
 ### 🔭 Expertise
 
 - Languages: C, C++, Java, PHP, JavaScript, Apex Salesforce, Python, Ruby.
-- Frameworks: React.js, Node.js
+- Frameworks: React.js, Node.js, Vue.js, Angular.js
 - Content Management Systems: Drupal, Wordpress, OMNI CMS
 - Utilities: CSS, TailwindCSS
 - CI/CD Tools: GitLab, Jenkins, Copado
 - Databases: mySQL, SOQL
 
-### 🌱 I'm currently learning
-
-- Vue.JS
-- AR Technologies
-- Storyblok 
-- ModernCampus
-
-
-### 👯 I'm looking to collaborate on
-
-- Open source augmented reality projects
-- Drupal plugins and utilities
 
 ### 📫 How to reach me:
 
 - LinkedIn: https://www.linkedin.com/in/chemasalazar/
-- GitHub: https://github.com/ChemaSalazar/ 
+<!-- - GitHub: https://github.com/ChemaSalazar/  -->
 <!-- - Email: ChemaSalazar@Outlook.com 
 - Twitter: https://twitter.com/CodeWithChema -->
 
