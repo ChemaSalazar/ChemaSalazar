@@ -2,8 +2,8 @@
 
 I am Chema Salazar, a Software Developer! Everyone should have a great experience with whatever tool they are using. I'm also interested in Augmented Reality and Artificial Intelligence. I want to be able to help create value and teach others from my journey and experience as an engineer. 
 
-### ⚡ GitLab (Mostly for work & private repos)
-https://gitlab.com/users/SalazarChema
+<!-- ### ⚡ GitLab (Mostly for work & private repos)
+https://gitlab.com/users/SalazarChema -->
 
 ### 🔭 Expertise
 
