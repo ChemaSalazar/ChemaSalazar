@@ -16,7 +16,7 @@ I am Chema Salazar, a Software Developer! Everyone should have a great experienc
 ### 🌱 Currently Learning
 
 - Machine Learning
-- Scalable e-commerce 
+- Swift: iOS, watchOS, MacOS, ipadOS
 
 
 
