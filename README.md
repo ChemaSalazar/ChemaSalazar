@@ -1,14 +1,14 @@
 ### Hi there 👋
 
-I am Chema Salazar, a Software Developer! Everyone should have a great experience with whatever tool they are using. I'm interested in Augmented Reality and Artificial Intelligence. I want to be able to help create value and teach others from my journey and experience as an engineer. 
+I am Chema Salazar, a Software Engineer! Everyone should have a great experience with whatever tool they are using. I'm interested in Augmented Reality and Artificial Intelligence. I want to be able to help create value and teach others from my journey and experience as an engineer. 
 
 
 ### 🔭 Expertise
 
-- Languages: C, C++, Java, PHP, JavaScript, Apex Salesforce, Python, Ruby.
+- Languages: C, C++, Java, PHP, JavaScript, Apex Salesforce, Python, Ruby, XSLT.
 - Frameworks: React.js, Node.js, Vue.js, Angular.js
-- Content Management Systems: Drupal, WordPress, Omni CMS
-- Utilities: CSS, TailwindCSS
+- Content Management Systems: Drupal, WordPress, ModernCampus.
+- Utilities: CSS, TailwindCSS, Bootstrap
 - CI/CD Tools: GitLab, Jenkins, Copado
 - Databases: MySQL, SOQL
 
