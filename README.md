@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Chema Salazar, a Software Engineer! Everyone should have a great experience with whatever tool they are using. I'm interested in Augmented Reality and Artificial Intelligence. I want to be able to help create value and teach others from my journey and experience as an engineer. 
+I am Chema Salazar, a Software Engineer! Everyone should have a great experience with whatever tool they are using. I'm interested in Augmented Reality and Machine Learning. I want to be able to help create value and teach others from my journey and experience as an engineer. 
 
 
 ### 🔭 Expertise
