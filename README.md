@@ -17,7 +17,11 @@ I am Chema Salazar, a Software Engineer! Everyone should have a great experience
 
 - Machine Learning
 - Swift: iOS, watchOS, MacOS, ipadOS
+- Redis
 
+### 🌱 Currently Building
+
+- Cross-platform Real Time Application for live streamers and content creators with robust TTS and AI integration.
 
 
 ### 📫 How to reach me:
