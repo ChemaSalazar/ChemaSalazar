@@ -1,27 +1,31 @@
-### Hi there 👋
+## 👋 Hi, I’m Chema  
 
-I am Chema Salazar, a Software Engineer! Everyone should have a great experience with whatever tool they are using. I'm interested in Augmented Reality and Machine Learning. I want to be able to help create value and teach others from my journey and experience as an engineer. 
+💻 Full Stack Developer • 🎮 Live Streamer • 📸 Creator  
+
+I’m a developer, streamer, and creator passionate about building useful tools and creative experiences. From enterprise-level web apps to **AI-driven streaming integrations**, I love solving problems and turning ideas into products people actually enjoy using.  
 
 
 ### 🔭 Expertise
 
 - Languages: C, C++, Java, PHP, JavaScript, Apex Salesforce, Python, Ruby, XSLT.
 - Frameworks: React.js, Node.js, Vue.js, Angular.js
-- Content Management Systems: Drupal, WordPress, ModernCampus.
+- Content Management Systems: Drupal, WordPress, ModernCampus, GhostCMS
 - Utilities: CSS, TailwindCSS, Bootstrap
-- CI/CD Tools: GitLab, Jenkins, Copado
-- Databases: MySQL, SOQL
+- CI/CD Tools: GitLab, Jenkins, Copado, GitHub Actions
+- Databases: MySQL, SOQL, Redis
+- Platforms: Docker, AWS, Azure, Coolify
+- AI Integrations: OpenAI, Gemini, Leonardo.
 
-
-### 🌱 Currently Learning
-
-- Machine Learning
-- Swift: iOS, watchOS, MacOS, ipadOS
-- Redis
 
 ### 🌱 Currently Building
 
 - Cross-platform Real Time Application for live streamers and content creators with robust TTS and AI integration.
+- Propriatery API application with Modern Campus API integration.
+
+### ⚡My Other Roles:
+- Live Streamer
+- Live Streaming Manager
+- Photographer & Video Editor
 
 
 ### 📫 How to reach me:
